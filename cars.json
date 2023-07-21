@@ -1,11 +1,80 @@
 [
  {
-   brand: "ford",
+   brand: "Ford",
    model: [
      {
        name: "Mustang",
-       
-     }
+       url: "https://www.ford.com/cars/mustang/",
+       image: "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/mustang/2024/collections/3-2/24_frd_mst_eb_oxwh_ps34_356x180.png/jcr:content/renditions/cq5dam.web.1280.1280.png"
+     },
+     {
+       name: "f650",
+       url: "https://www.ford.com/commercial-trucks/f650-f750/",
+       image: "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/f-650-750/2024/collections/3-2/23_frd_fsd_mdty_f650_gas_prld_sc_179_ps34_AGBL_356x180.png/jcr:content/renditions/cq5dam.web.1280.1280.png"
+     },
+     {
+       name: "Gt",
+       url: "https://www.ford.com/performance/gt/",
+       image: "https://www.motortrend.com/uploads/sites/5/2020/03/6-2020-ford-gt.jpg?fit=around%7C875:492.1875"
+     },
+ 
+   ]
+ },
+{
+   brand: "BMW",
+   model: [
+     {
+       name: "8",
+       url: "https://www.bmw.com.ph/en/all-models.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-&detail=8_BMW-M850i-xDrive-Gran-Coup%C3%A9",
+       image: "https://cosystatic.bmwgroup.com/bmwweb/cosySec?COSY-EU-100-2545xM4RIyFnbg9Mb3AgyyIJrjG03uyJRBODlsrjGpuaprQbhSIqppglBgMxQJl384MlficYiJUdl38hEXq0zkRNSQBL4QSW8JXCqM8q0zAaIb%25l38Te0VywMESuT8UtyJRhlBg3aHd5cRo6W7%25cRiFCd5cRokW7%258uaUW8JwDJrjGQcRo1W7%25suaUW8JGCyFny58UgrQ%25r9SgxW8zWubDCqogqaFH8l3ilUj8ocRScH7oBMbnMd0i8yJGy5BsBrQ%25r9YicW8zWunUQqogqaGb4l3ilU%25JJcRScHzj7MbnMdgsSyJGy5i3brQ%25r9S5fW8zWunsdqogqaGo5l3ilU%253%25cRScHzDYMbnMde90yJGy5msbrQ%25r9sRnW8zWuKbMqogqaDnal3ilUCGwcRScHbeiMbnMdJ70yJGy5Q3SrQ%25r98R5W8zWuobuqogqa3Jnl3ilUR3pcRScHbDBMbnMdd5syJR0aWAyFnhiExyJR5GlJirjGNY3QcNQBUJ1"
+     },
+     {
+       name: "iX",
+       url: "https://www.bmw.com.ph/en/all-models.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-&detail=BMW-i_BMW-iX",
+       image: "https://www.bmw.com.ph/content/dam/bmw/common/all-models/i-series/i20/2020/Highlights/bmw-i-series-iX-modelcard-890x501.png"
+     },
+   ]
+ },
+{
+   brand: "Mercedes",
+   model: [
+     {
+       name: "CLA Coupé",
+       url: "https://www.mercedes-benz.ph/en/desktop/passenger-cars/vehicle-type/new-cars/model-overview-standard/cla/new-cla-coupe.html",
+       image: "https://www.mercedes-benz.ph/content/dam/general-distributors/retailer/retail-philippines/philippines/Vehicle%20Images/CLA/CLA%20-%20715x230.jpg.asset.KbYng1ec_7n47MCzSd3y23HScTvpl2LxvEz-fsHA2E0.jpg"
+     },
+     {
+       name: "slc",
+       url: "https://www.mercedes-benz.ph/en/desktop/passenger-cars/vehicle-type/new-cars/model-overview-standard/slc-roadster/slc-roadster.html",
+       image: "https://www.mercedes-benz.ph/content/dam/international-assets/reference/passenger-cars/new-cars/Product-Assets/slc-roadster/slc-roadster-standard-panoramic-visual-715x230.asset.7-yAC-16yHoXwTkjR5leOzikCTlAQEV4Euhv9fnQ05I.jpg"
+     },
+     {
+       name: "A-class",
+       url: "https://www.mercedes-benz.ph/en/desktop/passenger-cars/vehicle-type/new-cars/model-overview-standard/a-class/a-class.html",
+       image: "https://www.mercedes-benz.ph/content/dam/international-assets/reference/passenger-cars/new-cars/Product-Assets/a-class/a-class-standard-panoramic-visual-715x230.asset.qLBKNTAiJmv_hxB_uJVxeXwZvsumZV_Ng8bmxhG6sEU.jpg"
+     },
+ 
+   ]
+ },
+{
+   brand: "Audi",
+   model: [
+     {
+       name: "A4 avant",
+       url: "https://www.audi.ph/sea/web/ph/models/a4/rs-4-avant.html",
+       image: "https://mediaservice.audi.com/media/live/50900/fly1400x601n8/8wdr/2021.png?wid=550"
+     },
+     {
+       name: "A3 Sedan",
+       url: "https://www.audi.ph/sea/web/ph/models/a3/a3-sedan.html",
+       image: "https://mediaservice.audi.com/media/live/50900/fly1400x601n8/8ysar/2021.png?wid=550"
+     },
+     {
+       name: "E-tron",
+       url: "https://www.audi.ph/sea/web/ph/models/tron/audi-e-tron.html",
+       image: "https://mediaservice.audi.com/media/live/50900/fly1400x601n8/genbae/2019.png?wid=550"
+     },
+ 
    ]
  }
 ]
